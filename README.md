@@ -1,4 +1,41 @@
-### Hi there 👋
+<img src="https://github.com/philipdaveby/philipdaveby/blob/main/salt.jpeg" width="500">
+## Hi I'm Philip Daveby 👋
+
+I’m a former professional musician, now fullstack JavaScript developer living in Stockholm. Driven by learning and passionate about frontend, tech, business development & music. I love solving problems and seeing the bigger picture.
+
+### Tech stack:
+- JavaScript
+- TypeScript
+- 
+##### Frontend
+- React
+- React Native
+- HTML
+- CSS/SASS
+- Tailwind
+- Redux
+- Webpack
+
+##### Backend
+- NodeJS
+- ExpressJS
+- HTTP/JSON/AJAX
+- REST
+- GraphQL
+- PostReSQL/MongoDB
+
+##### Tools
+- Mocha/Jest
+- Socket.io
+- Regular Expressions
+- Docker
+- Git+GitHub+GH Actions
+- AWS
+- Jamstack
+- TDD
+- Agile work methods
+- Figma
+
 
 <!--
 **philipdaveby/philipdaveby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
