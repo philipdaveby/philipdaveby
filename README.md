@@ -1,12 +1,12 @@
-<img src="https://github.com/philipdaveby/philipdaveby/blob/main/salt.jpeg" width="500">
-## Hi I'm Philip Daveby 👋
+<img src="https://github.com/philipdaveby/philipdaveby/blob/main/salt.jpeg" width="900">
+# Hi I'm Philip Daveby 👋
 
 I’m a former professional musician, now fullstack JavaScript developer living in Stockholm. Driven by learning and passionate about frontend, tech, business development & music. I love solving problems and seeing the bigger picture.
 
 ### Tech stack:
 - JavaScript
 - TypeScript
-- 
+
 ##### Frontend
 - React
 - React Native
@@ -35,6 +35,9 @@ I’m a former professional musician, now fullstack JavaScript developer living 
 - TDD
 - Agile work methods
 - Figma
+
+### [Visit my portfolio](https://www.philipdaveby.tech)
+### [LinkedIn](https://www.linkedin.com/in/philipdaveby/)
 
 
 <!--
