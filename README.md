@@ -2,10 +2,10 @@
 
 # Hey 👋
 
-➡️ I'm Philip Daveby
-➡️ Former professional musician, now fullstack JavaScript developer living in Stockholm
-➡️ Driven by learning and passionate about frontend, tech, business development & music
-➡️ I love solving problems and seeing the bigger picture
+➡️ I'm Philip Daveby  
+➡️ Former professional musician, now fullstack JavaScript developer living in Stockholm  
+➡️ Driven by learning and passionate about frontend, tech, business development & music  
+➡️ I love solving problems and seeing the bigger picture  
 
 ### [Portfolio](https://www.philipdaveby.tech)
 ### [LinkedIn](https://www.linkedin.com/in/philipdaveby/)
