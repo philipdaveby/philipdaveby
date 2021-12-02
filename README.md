@@ -1,7 +1,13 @@
-<img src="https://github.com/philipdaveby/philipdaveby/blob/main/salt.jpeg" width="1200" align="center">
-# HEY 👋
+<img src="https://github.com/philipdaveby/philipdaveby/blob/main/salt.jpeg" width="100%" align="center">
+
+# Hey 👋
 
 I’m a former professional musician, now fullstack JavaScript developer living in Stockholm. Driven by learning and passionate about frontend, tech, business development & music. I love solving problems and seeing the bigger picture.
+
+### [Portfolio](https://www.philipdaveby.tech)
+### [LinkedIn](https://www.linkedin.com/in/philipdaveby/)
+
+---
 
 ### Tech stack:
 - JavaScript
@@ -35,9 +41,6 @@ I’m a former professional musician, now fullstack JavaScript developer living 
 - TDD
 - Agile work methods
 - Figma
-
-### [Portfolio](https://www.philipdaveby.tech)
-### [LinkedIn](https://www.linkedin.com/in/philipdaveby/)
 
 
 <!--
