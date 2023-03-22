@@ -1,5 +1,3 @@
-<img src="https://github.com/philipdaveby/philipdaveby/blob/main/salt.jpeg" width="100%" align="center">
-
 # Hey 👋
 
 ➡️ I'm Philip Daveby  
@@ -7,7 +5,6 @@
 ➡️ Driven by learning and passionate about frontend, tech, business development & music  
 ➡️ I love solving problems and seeing the bigger picture  
 
-### [Portfolio](https://www.philipdaveby.tech)
 ### [LinkedIn](https://www.linkedin.com/in/philipdaveby/)
 
 ---
@@ -15,6 +12,7 @@
 ### Tech stack:
 - JavaScript
 - TypeScript
+- PHP
 
 ##### Frontend
 - React
@@ -27,6 +25,7 @@
 
 ##### Backend
 - NodeJS
+- PHP
 - ExpressJS
 - HTTP/JSON/AJAX
 - REST
