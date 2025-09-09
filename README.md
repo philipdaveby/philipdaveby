@@ -1,8 +1,8 @@
 # Hey 👋
 
 ➡️ I'm Philip Daveby  
-➡️ Former professional musician, now fullstack JavaScript developer living in Stockholm  
-➡️ Driven by learning and passionate about frontend, tech, business development & music  
+➡️ Former professional musician, now fullstack developer living in Stockholm  
+➡️ Driven by learning and passionate about tech, business development & making teams perform at their best
 ➡️ I love solving problems and seeing the bigger picture  
 
 ### [LinkedIn](https://www.linkedin.com/in/philipdaveby/)
@@ -11,8 +11,10 @@
 
 ### Tech stack:
 - JavaScript
+- Remix / React Router
 - TypeScript
 - PHP
+- Go
 
 ##### Frontend
 - React
